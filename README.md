@@ -1,6 +1,7 @@
 # Beeftext combo settings for content authors
 The following combos are meant to help content authors with typing typographically.
 Special thanks to https://tgm-online.de/blog/sonderzeichen and https://github.com/WhistlingZephyr/espanso-package-quotes.
+These combos output the same glyphs InDesign does. Special care was taken to use the proper dashes and spaces to maintain workflow in InDesign without having to navigate the menus to find the glyphs.
 
 ## Installation
 Download the *.json files of the combos you want and import them into Beeftext from the Combos menu.
@@ -28,7 +29,6 @@ These combos will replace the following keywords with their snippet
 | Keyword | Snippet | Description | 
 |---|---|---|
 | :dash | ‐ | HYPHEN |
-| :divis | ‐ | HYPHEN |
 | :emdash | — | EM DASH |
 | :endash | – | EN DASH |
 | :minus | − | MINUS SIGN |
@@ -38,11 +38,18 @@ These combos will replace the following keywords with their snippet
 ### Spaces
 | Keyword | Snippet | Description | 
 |---|---|---|
+| :em24 | " " | HAIR SPACE |
+| :em3 | " " | THREE-PER-EM SPACE |
+| :em4 | " " | FOUR-PER-EM SPACE |
+| :em6 | " " | SIX-PER-EM SPACE |
+| :em8 | " " | THIN SPACE |
 | :emquad | " " | EM QUAD |
 | :emspace | " " | EM SPACE |
 | :enquad | " " | EN QUAD |
 | :enspace | " " | EN SPACE |
 | :nbsp | " " | NO-BREAK SPACE |
+| :nnbsp | " " | NARROW NO-BREAK SPACE |
+| :psp | " " | PUNCTUATION SPACE |
 | :wj | "⁠" | WORD JOINER |
 | :zwj | "‍" | ZERO WIDTH JOINER |
 | :zwnj | "‌" | ZERO WIDTH NON-JOINER |
