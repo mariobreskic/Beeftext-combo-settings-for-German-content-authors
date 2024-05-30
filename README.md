@@ -22,6 +22,8 @@ These combos will replace the following keywords with their snippet
 | :'< | ‹ | SINGLE LEFT-POINTING ANGLE QUOTATION MARK |
 | :'> | › | SINGLE RIGHT-POINTING ANGLE QUOTATION MARK |
 
+<a name="grave_key_issue">1</a>: If your keyboard layout uses the backtick/grave key as a [dead key](https://en.wikipedia.org/wiki/Dead_key) only, you will have to work around that for these Beeftext keywords. If, for instance you use the German keyboard layout, you could switch to the [E1 layout](https://www.europatastatur.de/). This package of combos is a beginner’s introduction to the E1.
+
 ### Dashes
 | Keyword | Snippet | Description | 
 |---|---|---|
