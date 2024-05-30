@@ -1,0 +1,115 @@
+{
+    "combos": [
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T01:31:07.872",
+            "description": "EM QUAD",
+            "enabled": true,
+            "keyword": ":emquad",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T01:53:20.776",
+            "name": "EM QUAD",
+            "snippet": " ",
+            "uuid": "{8c00aff4-eee6-4b7f-b7f1-ceae9f18c1fb}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T01:39:59.388",
+            "description": "EM SPACE",
+            "enabled": true,
+            "keyword": ":emspace",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T01:53:17.500",
+            "name": "EM SPACE",
+            "snippet": " ",
+            "uuid": "{00cf4b6f-3302-48f5-9705-593d4b2b2371}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T01:40:52.332",
+            "description": "EN QUAD",
+            "enabled": true,
+            "keyword": ":enquad",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T01:53:14.893",
+            "name": "EN QUAD",
+            "snippet": " ",
+            "uuid": "{85a6e038-c587-4615-bfbb-c5f8fa4412de}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T01:41:40.064",
+            "description": "EN SPACE",
+            "enabled": true,
+            "keyword": ":enspace",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T01:53:48.358",
+            "name": "EN SPACE",
+            "snippet": " ",
+            "uuid": "{c5a5bb9f-2239-499c-a8ca-2bf202c1200c}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T01:44:53.145",
+            "description": "NO-BREAK SPACE",
+            "enabled": true,
+            "keyword": ":nbsp",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T01:53:12.343",
+            "name": "NO-BREAK SPACE",
+            "snippet": " ",
+            "uuid": "{f6a99a6a-3dae-4b21-ae15-bb72f01a9d82}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T01:46:19.444",
+            "description": "WORD JOINER\n",
+            "enabled": true,
+            "keyword": ":wj",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T01:53:10.005",
+            "name": "WORD JOINER",
+            "snippet": "⁠",
+            "uuid": "{6bdc72af-cd67-46ff-912f-b5fa78d55c95}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T01:52:23.258",
+            "description": "ZERO WIDTH JOINER",
+            "enabled": true,
+            "keyword": ":zwj",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T01:57:15.908",
+            "name": "ZERO WIDTH JOINER",
+            "snippet": "‍",
+            "uuid": "{51661578-ce2f-4094-a571-173e4f3afa73}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T01:56:27.150",
+            "description": "ZERO WIDTH NON-JOINER",
+            "enabled": true,
+            "keyword": ":zwnj",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T04:18:25.684",
+            "name": "ZERO WIDTH NON-JOINER",
+            "snippet": "‌",
+            "uuid": "{f2fa13d2-8df2-4e7c-a339-eb07dac3e5c7}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T01:57:32.674",
+            "description": "ZERO WIDTH SPACE",
+            "enabled": true,
+            "keyword": ":zwsp",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T02:03:53.379",
+            "name": "ZERO WIDTH SPACE",
+            "snippet": "​",
+            "uuid": "{a4cae942-c1e3-4bbc-88a1-c4f3512768a2}"
+        }
+    ],
+    "fileFormatVersion": 10,
+    "groups": [
+    ]
+}

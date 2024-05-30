@@ -1,0 +1,91 @@
+{
+    "combos": [
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T02:10:12.086",
+            "description": "SOFT HYPHEN",
+            "enabled": true,
+            "keyword": ":shy",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-05-30T02:10:28.419",
+            "name": "­ SOFT HYPHEN",
+            "snippet": "­",
+            "uuid": "{5226faf8-9aea-42c3-b803-a092af3cecc9}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T02:01:55.626",
+            "description": "HYPHEN",
+            "enabled": true,
+            "keyword": ":dash",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T02:03:44.571",
+            "name": "‐ HYPHEN",
+            "snippet": "‐",
+            "uuid": "{8585faa3-51af-4820-8448-1bf2615e7161}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T02:02:40.363",
+            "description": "HYPHEN",
+            "enabled": true,
+            "keyword": ":divis",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T02:03:46.918",
+            "name": "‐ HYPHEN",
+            "snippet": "‐",
+            "uuid": "{12b2d897-45e9-4ee2-9b5a-f1c12e0cd015}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T02:09:36.941",
+            "description": "NON-BREAKING HYPHEN",
+            "enabled": true,
+            "keyword": ":nbhy",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-05-30T02:09:49.904",
+            "name": "‑ NON-BREAKING HYPHEN",
+            "snippet": "‑",
+            "uuid": "{6c2f093a-8188-4969-b112-78ec598814c5}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T02:05:58.344",
+            "description": "EN DASH",
+            "enabled": true,
+            "keyword": ":endash",
+            "matchingMode": 0,
+            "modificationDateTime": "2024-05-30T02:07:10.560",
+            "name": "– EN DASH",
+            "snippet": "–",
+            "uuid": "{0da9492b-ede0-463a-9451-e5cc0b02d24c}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T02:03:21.394",
+            "description": "EM DASH",
+            "enabled": true,
+            "keyword": ":emdash",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T02:07:05.808",
+            "name": "— EM DASH",
+            "snippet": "—",
+            "uuid": "{82268b88-85dc-4968-aa60-fc1a1ee55e3b}"
+        },
+        {
+            "caseSensitivity": 0,
+            "creationDateTime": "2024-05-30T02:08:14.588",
+            "description": "MINUS SIGN",
+            "enabled": true,
+            "keyword": ":minus",
+            "matchingMode": 2,
+            "modificationDateTime": "2024-05-30T02:08:35.752",
+            "name": "− MINUS SIGN",
+            "snippet": "−",
+            "uuid": "{c56f7c72-c322-474d-a6d7-1da16d2f5bf6}"
+        }
+    ],
+    "fileFormatVersion": 10,
+    "groups": [
+    ]
+}
